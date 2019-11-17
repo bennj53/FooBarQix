@@ -1,3 +1,6 @@
+package com.groupeonepoint;
+
+import com.groupeonepoint.Operation;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Rule;

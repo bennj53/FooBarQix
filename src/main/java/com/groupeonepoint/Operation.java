@@ -1,3 +1,5 @@
+package com.groupeonepoint;
+
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import org.slf4j.Logger;
