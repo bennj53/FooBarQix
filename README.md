@@ -36,3 +36,9 @@ We have a new business request : we must keep a trace of 0 in numbers, each 0 mu
 + 303   => FooFoo*Foo
 + 105   => FooBarQix*Bar
 + 10101 => FooQix**
+
+## Execution steps
+
+1. in project folder : launch command mvn install
+2. in target folder : launch command (replace *param* with the parameter value of String compute (String) method :  
+   -->java -jar fooBarQix-1.0-jar-with-dependencies.jar *param*
